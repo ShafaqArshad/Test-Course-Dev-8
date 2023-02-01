@@ -1,4 +1,4 @@
-courseName: Special_Character_In_Name
+courseName: Special _Character_ In_ Name
 description: New Multiple Course For Test
 isAvailable: true
 isPremium: true
