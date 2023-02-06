@@ -7,6 +7,5 @@ price:
   currency: USD
 categories: 
   - docker
-learningPaths: 
-  - Learning Path 1 Sa
+learningPaths: []
 complexity: advance
