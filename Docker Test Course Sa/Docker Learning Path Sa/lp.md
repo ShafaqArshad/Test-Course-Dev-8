@@ -1,4 +1,4 @@
-title: Docker Learning Path Sa 1
+title: Docker Learning Path Sa
 description: Lets learn how to build a web application with Flask. shafaq
 scenarios: 
   - Sa 1 Docker Scenario 1
